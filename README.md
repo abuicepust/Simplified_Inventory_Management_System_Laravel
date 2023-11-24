@@ -109,6 +109,20 @@ So on-------
 - How controller works.
 
 
+## How To use this app
+
+- First get/download all the files
+- Run the server using command
+- Use default server to go to dafault page
+- To access the product menu you have to create account or login via authentication page
+- Create account using register page
+- After successful registration you can access the dashboard
+- The you can see all the menus for products
+- Create a new product or edit an Existing product
+- You can delete the product as well
+- Thank You.
+
+
 ##  About Me
 I'm a full stack developer...
 
